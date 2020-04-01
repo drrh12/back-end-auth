@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://flavio:soeusei12@cluster0-6dw48.mongodb.net/sibdev?retryWrites=true&w=majority",
+    "jwtSecret": "password"
+}
